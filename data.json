@@ -1,0 +1,333 @@
+[
+  {
+    "nome": "Hábitos Atômicos",
+    "descricao": "Guia prático e comprovado para construir bons hábitos e se livrar dos maus, focado em pequenas mudanças que geram grandes resultados. Essencial para produtividade.",
+    "data_criacao": 2018,
+    "link": "https://jamesclear.com/atomic-habits"
+  },
+  {
+    "nome": "O Poder do Hábito",
+    "descricao": "Explora a ciência por trás de como os hábitos se formam e como podem ser mudados, usando a 'Tríade do Hábito' (deixa, rotina e recompensa) como modelo.",
+    "data_criacao": 2012,
+    "link": "https://charlesduhigg.com/the-power-of-habit/"
+  },
+  {
+    "nome": "Essencialismo",
+    "descricao": "Aborda a disciplina de fazer menos, mas melhor, focando apenas no que é essencial para atingir o máximo de contribuição e propósito. Livro chave para priorização.",
+    "data_criacao": 2014,
+    "link": "https://gregmckeown.com/books/essentialism/"
+  },
+  {
+    "nome": "A Arte de Lidar com Pessoas",
+    "descricao": "Clássico atemporal focado em princípios de comunicação interpessoal, influência e técnicas para construir relacionamentos mais fortes e eficazes, tanto na vida pessoal quanto na profissional.",
+    "data_criacao": 1936,
+    "link": "https://www.dalecarnegie.com/"
+  },
+  {
+    "nome": "Rápido e Devagar",
+    "descricao": "Análise aprofundada dos dois sistemas que dirigem nossos pensamentos: o 'Sistema 1' (rápido, intuitivo) e o 'Sistema 2' (devagar, deliberativo), ajudando a entender o processo de tomada de decisão.",
+    "data_criacao": 2011,
+    "link": "https://www.fs.blog/daniel-kahneman-thinking-fast-and-slow/"
+  },
+  {
+    "nome": "Deep Work: Regras Para o Sucesso em um Mundo Distraído",
+    "descricao": "Explora a importância de focar profundamente em tarefas cognitivamente exigentes e oferece estratégias práticas para cultivar essa habilidade em uma economia altamente dispersa.",
+    "data_criacao": "2016",
+    "link": "https://www.calnewport.com/books/deep-work/",
+    "tags": [
+      "produtividade",
+      "foco",
+      "carreira",
+      "gestão do tempo"
+    ]
+  },
+  {
+    "nome": "A Startup Enxuta (The Lean Startup)",
+    "descricao": "Apresenta uma nova abordagem para a criação de empresas, focada em validação rápida, aprendizado contínuo e métricas acionáveis para evitar desperdício de tempo e recursos.",
+    "data_criacao": "2011",
+    "link": "https://theleanstartup.com/",
+    "tags": [
+      "empreendedorismo",
+      "inovação",
+      "gestão de projetos",
+      "administração"
+    ]
+  },
+  {
+    "nome": "As 7 Habilidades das Pessoas Altamente Eficazes",
+    "descricao": "Um clássico atemporal que define princípios para a eficácia pessoal e profissional, começando pela proatividade e terminando com a renovação contínua ('afinar o instrumento').",
+    "data_criacao": "1989",
+    "link": "https://www.franklincovey.com/the-7-habits/",
+    "tags": [
+      "liderança",
+      "desenvolvimento pessoal",
+      "autoajuda",
+      "princípios"
+    ]
+  },
+  {
+    "nome": "Comece Pelo Porquê (Start With Why)",
+    "descricao": "Argumenta que os líderes e organizações mais influentes inspiram ação começando pela razão de sua existência (o 'Porquê'), em vez de simplesmente o 'O quê' ou 'Como' fazem.",
+    "data_criacao": "2009",
+    "link": "https://simonsinek.com/books/start-with-why/",
+    "tags": [
+      "liderança",
+      "motivação",
+      "negócios",
+      "comunicação"
+    ]
+  },
+  {
+    "nome": "Grit: O Poder da Paixão e da Persistência",
+    "descricao": "Angela Duckworth explora a ideia de que o segredo para a realização excepcional não é apenas o talento, mas sim a combinação de paixão e perseverança a longo prazo (Grit).",
+    "data_criacao": "2016",
+    "link": "https://angeladuckworth.com/grit-book/",
+    "tags": [
+      "psicologia",
+      "desenvolvimento pessoal",
+      "sucesso",
+      "mentalidade"
+    ]
+  },
+  {
+    "nome": "Mindset: A Nova Psicologia do Sucesso",
+    "descricao": "A psicóloga Carol Dweck demonstra a diferença entre o 'mindset fixo' (crença de que habilidades são imutáveis) e o 'mindset de crescimento' (crença na melhoria por esforço e aprendizado).",
+    "data_criacao": "2006",
+    "link": "https://mindsetonline.com/whatisit/about/",
+    "tags": [
+      "psicologia",
+      "mentalidade",
+      "educação",
+      "desenvolvimento pessoal"
+    ]
+  },
+  {
+    "nome": "Pai Rico, Pai Pobre (Rich Dad Poor Dad)",
+    "descricao": "Questiona o modelo educacional tradicional sobre dinheiro e argumenta a favor da alfabetização financeira, investimento em ativos e criação de negócios.",
+    "data_criacao": "1997",
+    "link": "https://www.richdad.com/book/rich-dad-poor-dad",
+    "tags": [
+      "finanças pessoais",
+      "educação financeira",
+      "empreendedorismo",
+      "mentalidade"
+    ]
+  },
+  {
+    "nome": "A Arte de Fazer Acontecer (Getting Things Done - GTD)",
+    "descricao": "O método revolucionário de David Allen para gerenciar o fluxo de trabalho e reduzir o estresse, utilizando listas, caixas de entrada e revisão semanal.",
+    "data_criacao": "2001",
+    "link": "https://gettingthingsdone.com/",
+    "tags": [
+      "produtividade",
+      "gestão do tempo",
+      "organização",
+      "método"
+    ]
+  },
+  {
+    "nome": "A Semana de Trabalho de 4 Horas (The 4-Hour Workweek)",
+    "descricao": "Timothy Ferriss desafia a ideia tradicional de aposentadoria e carreira, promovendo o conceito de 'novos ricos', alavancagem e automação para alcançar a liberdade geográfica e financeira.",
+    "data_criacao": "2007",
+    "link": "https://tim.blog/books/the-4-hour-workweek/",
+    "tags": [
+      "liberdade financeira",
+      "produtividade",
+      "estilo de vida",
+      "empreendedorismo digital"
+    ]
+  },
+  {
+    "nome": "Pense e Enriqueça (Think and Grow Rich)",
+    "descricao": "Um dos primeiros e mais influentes livros de desenvolvimento pessoal, baseado na pesquisa de 500 homens de sucesso, destacando o poder do pensamento, desejo e planejamento organizado.",
+    "data_criacao": "1937",
+    "link": "https://www.napoleonhill.com/think-and-grow-rich",
+    "tags": [
+      "clássico",
+      "mentalidade",
+      "sucesso",
+      "riqueza",
+      "autoajuda"
+    ]
+  },
+  {
+    "nome": "Radical Candor (Sinceridade Radical)",
+    "descricao": "Kim Scott apresenta uma estrutura para dar e receber feedback no ambiente de trabalho, equilibrando o 'Cuidado Pessoal' com o 'Desafio Direto'.",
+    "data_criacao": "2017",
+    "link": "https://www.radicalcandor.com/",
+    "tags": [
+      "liderança",
+      "gestão de equipes",
+      "carreira",
+      "comunicação"
+    ]
+  },
+  {
+    "nome": "Comunicação Não-Violenta (CNV)",
+    "descricao": "Marshall Rosenberg ensina um método para se comunicar com empatia, honestidade e responsabilidade, focando em observações, sentimentos, necessidades e pedidos.",
+    "data_criacao": "1999",
+    "link": "https://www.cnvc.org/learn/books",
+    "tags": [
+      "comunicação",
+      "inteligência emocional",
+      "relacionamentos",
+      "psicologia"
+    ]
+  },
+  {
+    "nome": "O Obstáculo É o Caminho (The Obstacle Is the Way)",
+    "descricao": "Ryan Holiday aplica a filosofia estoica para mostrar como reverter adversidades e desafios em oportunidades de sucesso e crescimento pessoal.",
+    "data_criacao": "2014",
+    "link": "https://ryanholiday.net/the-obstacle-is-the-way/",
+    "tags": [
+      "estoicismo",
+      "filosofia prática",
+      "resiliência",
+      "desenvolvimento pessoal"
+    ]
+  },
+  {
+    "nome": "A Psicologia Financeira (The Psychology of Money)",
+    "descricao": "Morgan Housel explora a ideia de que fazer sucesso com dinheiro tem mais a ver com comportamento e psicologia do que com inteligência ou conhecimento técnico.",
+    "data_criacao": "2020",
+    "link": "https://www.morganhousel.com/book/the-psychology-of-money/",
+    "tags": [
+      "finanças pessoais",
+      "psicologia",
+      "investimento",
+      "comportamento"
+    ]
+  },
+  {
+    "nome": "Drive: A Surpreendente Verdade Sobre o Que Nos Motiva",
+    "descricao": "Daniel Pink argumenta que a motivação no século XXI é alimentada por autonomia, maestria e propósito, e não apenas por recompensas externas tradicionais.",
+    "data_criacao": "2009",
+    "link": "https://www.danpink.com/books/drive/",
+    "tags": [
+      "motivação",
+      "gestão de pessoas",
+      "psicologia",
+      "carreira"
+    ]
+  },
+  {
+    "nome": "Ikigai: Os Segredos dos Japoneses para Uma Vida Longa e Feliz",
+    "descricao": "Explora o conceito japonês de Ikigai, a intersecção entre o que você ama, o que você é bom, o que o mundo precisa e o que você pode ser pago para fazer.",
+    "data_criacao": "2016",
+    "link": "https://www.planetadelivros.com.br/livro/ikigai/291913",
+    "tags": [
+      "propósito",
+      "estilo de vida",
+      "filosofia",
+      "bem-estar"
+    ]
+  },
+  {
+    "nome": "A Única Coisa (The ONE Thing)",
+    "descricao": "Gary Keller e Jay Papasan defendem que o foco em uma única coisa principal, que torna todo o resto mais fácil ou desnecessário, é a chave para a produtividade e o sucesso extraordinário.",
+    "data_criacao": "2013",
+    "link": "https://www.the1thing.com/",
+    "tags": [
+      "produtividade",
+      "foco",
+      "gestão de metas",
+      "simplicidade"
+    ]
+  },
+  {
+    "nome": "Devore Aquele Sapo! (Eat That Frog!)",
+    "descricao": "Um guia prático de Brian Tracy com 21 métodos para acabar com a procrastinação e fazer mais em menos tempo, priorizando as tarefas mais difíceis ('o sapo') logo pela manhã.",
+    "data_criacao": "2001",
+    "link": "https://briantracy.com/blog/eat-that-frog/",
+    "tags": [
+      "produtividade",
+      "gestão do tempo",
+      "superação da procrastinação",
+      "guia prático"
+    ]
+  },
+  {
+    "nome": "Em Busca de Sentido (Man's Search for Meaning)",
+    "descricao": "Viktor Frankl relata sua experiência nos campos de concentração nazistas e desenvolve a logoterapia, que postula que a principal força motivacional humana é a busca por um propósito.",
+    "data_criacao": "1946",
+    "link": "https://www.viktorfrankl.org/man-search-for-meaning",
+    "tags": [
+      "psicologia",
+      "propósito",
+      "resiliência",
+      "filosofia"
+    ]
+  },
+  {
+    "nome": "Influência: A Psicologia da Persuasão",
+    "descricao": "Robert Cialdini analisa os seis princípios universais da influência (reciprocidade, compromisso, prova social, autoridade, afeição e escassez) e como aplicá-los eticamente.",
+    "data_criacao": "1984",
+    "link": "https://www.influenceatwork.com/influence-book/",
+    "tags": [
+      "psicologia social",
+      "negociação",
+      "vendas",
+      "comunicação"
+    ]
+  },
+  {
+    "nome": "Flow: A Psicologia da Experiência Ótima",
+    "descricao": "Mihaly Csikszentmihalyi descreve o estado de 'fluxo', onde a pessoa está completamente imersa e focada em uma atividade, levando à felicidade e alta performance.",
+    "data_criacao": "1990",
+    "link": "https://www.harpercollins.com/products/flow",
+    "tags": [
+      "psicologia",
+      "performance",
+      "felicidade",
+      "foco"
+    ]
+  },
+  {
+    "nome": "Inteligência Emocional",
+    "descricao": "Daniel Goleman popularizou o conceito de que a IE (habilidade de gerenciar as próprias emoções e as dos outros) é um indicador de sucesso mais importante que o QI.",
+    "data_criacao": "1995",
+    "link": "https://www.danielgoleman.info/book/emotional-intelligence/",
+    "tags": [
+      "inteligência emocional",
+      "psicologia",
+      "liderança",
+      "autoajuda"
+    ]
+  },
+  {
+    "nome": "O Poder do Agora",
+    "descricao": "Eckhart Tolle ensina que a chave para a paz e a iluminação é viver plenamente no presente, superando a ansiedade causada pela identificação excessiva com o ego e o tempo psicológico.",
+    "data_criacao": "1997",
+    "link": "https://eckharttolle.com/books/",
+    "tags": [
+      "espiritualidade",
+      "mindfulness",
+      "paz interior",
+      "desenvolvimento pessoal"
+    ]
+  },
+  {
+    "nome": "Conversas Cruciais (Crucial Conversations)",
+    "descricao": "Oferece estratégias para lidar com diálogos de alta complexidade e alto risco, transformando desacordos em resultados positivos.",
+    "data_criacao": "2002",
+    "link": "https://www.vitalsmarts.com/crucialconversations/",
+    "tags": [
+      "comunicação",
+      "negociação",
+      "liderança",
+      "relacionamentos profissionais"
+    ]
+  },
+  {
+    "nome": "Como Fazer Amigos e Influenciar Pessoas",
+    "descricao": "Dale Carnegie oferece técnicas atemporais sobre como se relacionar melhor com os outros, ganhar as pessoas para o seu modo de pensar e se tornar um líder mais eficaz.",
+    "data_criacao": "1936",
+    "link": "https://www.dalecarnegie.com/en/resources/how-to-win-friends-and-influence-people",
+    "tags": [
+      "clássico",
+      "habilidades sociais",
+      "comunicação",
+      "influência"
+    ]
+  }
+]
