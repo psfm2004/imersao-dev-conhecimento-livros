@@ -20,18 +20,27 @@ async function iniciarBusca() { // Define uma função assíncrona para buscar e
     });
 }
 
-function renderizarCards(dadosParaRenderizar) { // Define a função que cria e exibe os cards na tela, recebendo um array de dados.
-    cardContainer.innerHTML = ""; // Limpa todo o conteúdo HTML do container de cards para evitar duplicatas.
-    for (let dado of dadosParaRenderizar) { // Inicia um loop para percorrer cada item (objeto) no array de dados recebido.
-        let article = document.createElement("article"); // Cria um novo elemento HTML <article> para ser o card.
-        article.classList.add("card"); // Adiciona a classe CSS "card" ao elemento <article> recém-criado.
+function renderizarCards(dadosParaRenderizar) {
+    cardContainer.innerHTML = "";
+
+    for (let dado of dadosParaRenderizar) {
+        // Trata o campo de tags. Cria o HTML se as tags existirem e for um array válido.
+        const tagsHtml = dado.tags && Array.isArray(dado.tags) && dado.tags.length > 0
+            ? `<p class="tags-container"><strong>Tags:</strong> ${dado.tags.map(tag => `<span class="tag">${tag}</span>`).join(', ')}</p>`
+            : ''; // Se não houver tags, a string fica vazia.
+
+        // Usa data_criacao. Se não existir, exibe uma mensagem de Indisponível.
+        const anoExibido = dado.data_criacao || 'Indisponível';
+
+        let article = document.createElement("article");
+        article.classList.add("card");
         article.innerHTML = ` 
-        <h2>${dado.nome}</h2> 
-        <p>Ano: ${dado.data_criacao}</p> 
-        <p>${dado.descricao}</p> 
-        <a href="${dado.link}" target="_blank">Saiba mais</a> 
-        `; // Define o conteúdo HTML do card usando os dados do objeto atual (nome, ano, descrição, link).
-        cardContainer.appendChild(article); // Adiciona o card (elemento <article>) como um filho do container de cards na página.
+            <h2>${dado.nome}</h2> 
+            <p>Ano: ${anoExibido}</p> 
+            <p>${dado.descricao}</p> 
+            ${tagsHtml} <a href="${dado.link}" target="_blank">Saiba mais</a> 
+        `;
+        cardContainer.appendChild(article);
     }
 }
 
