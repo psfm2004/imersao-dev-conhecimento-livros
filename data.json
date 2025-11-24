@@ -3,31 +3,63 @@
     "nome": "Hábitos Atômicos",
     "descricao": "Guia prático e comprovado para construir bons hábitos e se livrar dos maus, focado em pequenas mudanças que geram grandes resultados. Essencial para produtividade.",
     "data_criacao": 2018,
-    "link": "https://jamesclear.com/atomic-habits"
+    "link": "https://jamesclear.com/atomic-habits",
+    "tags": [
+      "hábitos",
+      "produtividade",
+      "melhoria contínua",
+      "guia prático"
+    ]
   },
   {
     "nome": "O Poder do Hábito",
     "descricao": "Explora a ciência por trás de como os hábitos se formam e como podem ser mudados, usando a 'Tríade do Hábito' (deixa, rotina e recompensa) como modelo.",
     "data_criacao": 2012,
-    "link": "https://charlesduhigg.com/the-power-of-habit/"
+    "link": "https://charlesduhigg.com/the-power-of-habit/",
+    "tags": [
+      "hábitos",
+      "ciência comportamental",
+      "psicologia",
+      "mudança de vida"
+    ]
   },
   {
     "nome": "Essencialismo",
     "descricao": "Aborda a disciplina de fazer menos, mas melhor, focando apenas no que é essencial para atingir o máximo de contribuição e propósito. Livro chave para priorização.",
     "data_criacao": 2014,
-    "link": "https://gregmckeown.com/books/essentialism/"
+    "link": "https://gregmckeown.com/books/essentialism/",
+    "tags": [
+      "produtividade",
+      "foco",
+      "priorização",
+      "gestão do tempo",
+      "carreira"
+    ]
   },
   {
     "nome": "A Arte de Lidar com Pessoas",
     "descricao": "Clássico atemporal focado em princípios de comunicação interpessoal, influência e técnicas para construir relacionamentos mais fortes e eficazes, tanto na vida pessoal quanto na profissional.",
     "data_criacao": 1936,
-    "link": "https://www.dalecarnegie.com/"
+    "link": "https://www.dalecarnegie.com/",
+    "tags": [
+      "comunicação",
+      "habilidades sociais",
+      "relacionamentos",
+      "influência",
+      "clássico"
+    ]
   },
   {
     "nome": "Rápido e Devagar",
     "descricao": "Análise aprofundada dos dois sistemas que dirigem nossos pensamentos: o 'Sistema 1' (rápido, intuitivo) e o 'Sistema 2' (devagar, deliberativo), ajudando a entender o processo de tomada de decisão.",
     "data_criacao": 2011,
-    "link": "https://www.fs.blog/daniel-kahneman-thinking-fast-and-slow/"
+    "link": "https://www.fs.blog/daniel-kahneman-thinking-fast-and-slow/",
+    "tags": [
+      "tomada de decisão",
+      "psicologia cognitiva",
+      "racionalidade",
+      "mentalidade"
+    ]
   },
   {
     "nome": "Deep Work: Regras Para o Sucesso em um Mundo Distraído",
@@ -328,6 +360,306 @@
       "habilidades sociais",
       "comunicação",
       "influência"
+    ]
+  },
+  {
+    "nome": "Digital Minimalism",
+    "descricao": "Um guia para usar a tecnologia de forma intencional e limitar o tempo de tela para aumentar o foco e a satisfação na vida offline.",
+    "data_criacao": "2019",
+    "link": "https://www.calnewport.com/books/digital-minimalism/",
+    "tags": [
+      "minimalismo",
+      "produtividade",
+      "foco",
+      "tecnologia"
+    ]
+  },
+  {
+    "nome": "Princípios",
+    "descricao": "O livro de Ray Dalio que destila as regras e algoritmos que ele usou para criar a maior e mais bem-sucedida hedge fund do mundo, aplicáveis à vida e ao trabalho.",
+    "data_criacao": "2017",
+    "link": "https://www.principles.com/",
+    "tags": [
+      "liderança",
+      "gestão",
+      "princípios",
+      "tomada de decisão",
+      "negócios"
+    ]
+  },
+  {
+    "nome": "O Código da Cultura",
+    "descricao": "Examina as chaves para criar culturas de alto desempenho, focando em segurança psicológica, vulnerabilidade e propósito compartilhado.",
+    "data_criacao": "2018",
+    "link": "https://danielcoyle.com/the-culture-code/",
+    "tags": [
+      "liderança",
+      "trabalho em equipe",
+      "cultura organizacional",
+      "gestão"
+    ]
+  },
+  {
+    "nome": "A Coragem de Ser Imperfeito",
+    "descricao": "Brené Brown explora a vulnerabilidade e a vergonha, mostrando como abraçar a imperfeição é o caminho para o engajamento e a vida plena.",
+    "data_criacao": "2012",
+    "link": "https://brenebrown.com/book/daring-greatly/",
+    "tags": [
+      "inteligência emocional",
+      "vulnerabilidade",
+      "autoajuda",
+      "desenvolvimento pessoal"
+    ]
+  },
+  {
+    "nome": "Nunca Divida a Diferença",
+    "descricao": "Técnicas de negociação de alto risco usadas por um ex-negociador de reféns do FBI para obter sucesso tanto em situações críticas quanto nos negócios.",
+    "data_criacao": "2016",
+    "link": "https://www.blackswanltd.com/never-split-the-difference",
+    "tags": [
+      "negociação",
+      "comunicação",
+      "estratégia",
+      "negócios"
+    ]
+  },
+  {
+    "nome": "O Efeito Composto",
+    "descricao": "Explora como pequenas ações consistentes se acumulam ao longo do tempo para criar resultados massivos, focando na disciplina e na rotina diária.",
+    "data_criacao": "2010",
+    "link": "https://darrenhardy.com/the-compound-effect/",
+    "tags": [
+      "disciplina",
+      "rotina",
+      "autoajuda",
+      "sucesso"
+    ]
+  },
+  {
+    "nome": "Pensando em Sistemas",
+    "descricao": "Um guia fundamental para entender a estrutura dos sistemas complexos, as causas dos problemas e como projetar intervenções eficazes.",
+    "data_criacao": "2008",
+    "link": "https://donellameadows.org/archives/thinking-in-systems-a-primer/",
+    "tags": [
+      "sistemas",
+      "resolução de problemas",
+      "pensamento estratégico",
+      "modelos mentais"
+    ]
+  },
+  {
+    "nome": "A Arte de Pedir",
+    "descricao": "Explora o poder e a dificuldade de pedir ajuda e apoio, ensinando como superar o medo da rejeição e construir comunidades fortes.",
+    "data_criacao": "2010",
+    "link": "https://www.amandapalmer.net/the-art-of-asking/",
+    "tags": [
+      "comunicação",
+      "vulnerabilidade",
+      "networking",
+      "relacionamentos"
+    ]
+  },
+  {
+    "nome": "O Jeito Harvard de Ser Feliz",
+    "descricao": "Shawn Achor argumenta que a felicidade é a causa do sucesso, e não o resultado, oferecendo estratégias baseadas em psicologia positiva para prosperar.",
+    "data_criacao": "2010",
+    "link": "https://www.shawnachor.com/books/the-happiness-advantage/",
+    "tags": [
+      "psicologia positiva",
+      "felicidade",
+      "produtividade",
+      "carreira"
+    ]
+  },
+  {
+    "nome": "O Manifesto da Lista de Checagem",
+    "descricao": "Argumenta que a complexidade do mundo moderno exige o uso de listas de checagem simples para garantir a excelência e evitar erros catastróficos.",
+    "data_criacao": "2009",
+    "link": "https://gawande.com/book/the-checklist-manifesto",
+    "tags": [
+      "produtividade",
+      "sistemas",
+      "organização",
+      "gestão de risco"
+    ]
+  },
+  {
+    "nome": "Descanse",
+    "descricao": "Argumenta que o descanso ativo e intencional é crucial para a criatividade e a alta performance, desafiando a cultura da sobrecarga e do esgotamento.",
+    "data_criacao": "2016",
+    "link": "https://www.alexsoojungkimpang.com/rest/",
+    "tags": [
+      "produtividade",
+      "bem-estar",
+      "criatividade",
+      "gestão de tempo"
+    ]
+  },
+  {
+    "nome": "Por que Dormimos",
+    "descricao": "Matthew Walker explora a ciência revolucionária do sono, explicando seu papel vital para a saúde, memória, emoções e produtividade.",
+    "data_criacao": "2017",
+    "link": "https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501140685",
+    "tags": [
+      "ciência",
+      "bem-estar",
+      "saúde",
+      "produtividade"
+    ]
+  },
+  {
+    "nome": "Boa Noite, Desejo de Boa Sorte",
+    "descricao": "Baseado no famoso discurso do Almirante McRaven, este pequeno livro oferece 10 lições simples para mudar o mundo, começando por arrumar a cama.",
+    "data_criacao": "2017",
+    "link": "https://www.hachettebookgroup.com/titles/william-h-mcraven/make-your-bed/9781455570242/",
+    "tags": [
+      "disciplina",
+      "liderança",
+      "motivação",
+      "autoajuda"
+    ]
+  },
+  {
+    "nome": "Bons para Ótimos",
+    "descricao": "Estudo clássico sobre o que diferencia empresas que alcançaram excelência sustentável daquelas que permaneceram apenas boas, definindo características-chave de líderes e estratégias.",
+    "data_criacao": "2001",
+    "link": "https://www.jimcollins.com/books.html",
+    "tags": [
+      "liderança",
+      "gestão",
+      "negócios",
+      "estratégia"
+    ]
+  },
+  {
+    "nome": "O Poder da Vulnerabilidade",
+    "descricao": "Compilação de ensinamentos de Brené Brown sobre como aceitar nossas fraquezas e se conectar verdadeiramente com os outros através da coragem de ser imperfeito.",
+    "data_criacao": "2012",
+    "link": "https://brenebrown.com/book/the-power-of-vulnerability-lessons-on-authenticity-connection-and-courage/",
+    "tags": [
+      "vulnerabilidade",
+      "autenticidade",
+      "desenvolvimento pessoal",
+      "coragem"
+    ]
+  },
+  {
+    "nome": "O Milionário Mora ao Lado",
+    "descricao": "Revela, por meio de extensas pesquisas, os hábitos de poupança, frugalidade e investimento que realmente levam à construção de riqueza nos EUA.",
+    "data_criacao": "1996",
+    "link": "https://www.simonandschuster.com/books/The-Millionaire-Next-Door/Thomas-J-Stanley/9781538749457",
+    "tags": [
+      "finanças pessoais",
+      "investimento",
+      "hábitos",
+      "riqueza"
+    ]
+  },
+  {
+    "nome": "Conversas Difíceis",
+    "descricao": "Oferece um guia prático para gerenciar conversas emocionais e de alto risco, focando em entender intenções, sentimentos e construir diálogos construtivos.",
+    "data_criacao": "1999",
+    "link": "https://www.stoneandheen.com/difficult-conversations",
+    "tags": [
+      "comunicação",
+      "resolução de conflitos",
+      "inteligência emocional"
+    ]
+  },
+  {
+    "nome": "Mude",
+    "descricao": "Os irmãos Heath examinam a ciência da mudança, mostrando como moldar o caminho, motivar o 'Elefante' (emoção) e direcionar o 'Cavaleiro' (racional).",
+    "data_criacao": "2010",
+    "link": "https://heathbrothers.com/books/switch/",
+    "tags": [
+      "mudança comportamental",
+      "psicologia",
+      "liderança",
+      "motivação"
+    ]
+  },
+  {
+    "nome": "Diga-me Onde Dói",
+    "descricao": "Guia para dar e receber feedback difícil, explorando os gatilhos emocionais e perceptivos que nos impedem de aprender com as críticas.",
+    "data_criacao": "2014",
+    "link": "https://www.stoneandheen.com/thanks-for-the-feedback",
+    "tags": [
+      "comunicação",
+      "feedback",
+      "relacionamentos",
+      "desenvolvimento pessoal"
+    ]
+  },
+  {
+    "nome": "Líderes Comem Por Último",
+    "descricao": "Simon Sinek argumenta que a verdadeira liderança cria um 'Círculo de Segurança' onde os funcionários se sentem protegidos, incentivando a confiança e a colaboração.",
+    "data_criacao": "2014",
+    "link": "https://startwithwhy.com/leaders-eat-last/",
+    "tags": [
+      "liderança",
+      "gestão",
+      "cultura organizacional",
+      "confiança"
+    ]
+  },
+  {
+    "nome": "A Regra dos 5 Segundos",
+    "descricao": "Mel Robbins apresenta uma ferramenta simples e poderosa para interromper a procrastinação e a dúvida, forçando a ação imediata em cinco segundos.",
+    "data_criacao": "2017",
+    "link": "https://melrobbins.com/the-5-second-rule/",
+    "tags": [
+      "motivação",
+      "produtividade",
+      "autoajuda",
+      "disciplina"
+    ]
+  },
+  {
+    "nome": "Previsivelmente Irracional",
+    "descricao": "Dan Ariely revela as forças ocultas e irracionais que moldam nossas decisões, desmistificando o conceito de que somos tomadores de decisão lógicos.",
+    "data_criacao": "2008",
+    "link": "https://danariely.com/books/predictably-irrational/",
+    "tags": [
+      "economia comportamental",
+      "psicologia",
+      "tomada de decisão"
+    ]
+  },
+  {
+    "nome": "Shoe Dog",
+    "descricao": "A envolvente memória do fundador da Nike, Phil Knight, narrando a jornada improvável, os fracassos e os triunfos de construir uma marca global.",
+    "data_criacao": "2016",
+    "link": "https://www.simonandschuster.com/books/Shoe-Dog/Phil-Knight/9781501135926",
+    "tags": [
+      "memórias",
+      "empreendedorismo",
+      "liderança",
+      "negócios",
+      "história"
+    ]
+  },
+  {
+    "nome": "Legado",
+    "descricao": "Analisa a cultura de alto desempenho dos All Blacks, a seleção neozelandesa de rugby, extraindo 15 lições de liderança e excelência em equipe.",
+    "data_criacao": "2013",
+    "link": "https://www.hachettebookgroup.com/titles/james-kerr/legacy/9781455570228/",
+    "tags": [
+      "liderança",
+      "cultura",
+      "excelência",
+      "trabalho em equipe"
+    ]
+  },
+  {
+    "nome": "Aprendendo a Ser Otimista",
+    "descricao": "Martin Seligman, fundador da Psicologia Positiva, ensina como identificar padrões de pessimismo e desenvolver um estilo de pensamento mais otimista e resiliente.",
+    "data_criacao": "1990",
+    "link": "https://www.penguinrandomhouse.com/books/323351/learned-optimism-by-martin-e-p-seligman/",
+    "tags": [
+      "psicologia positiva",
+      "otimismo",
+      "resiliência",
+      "autoajuda"
     ]
   }
 ]
